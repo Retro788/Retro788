@@ -1,11 +1,18 @@
-<h1 align="center">Whats up dude,<img src="https://media0.giphy.com/media/CJ5bKVKLSQsrs3nJw2/giphy.gif?cid=ecf05e47364l6yzbqdzlp2k0hspl1dydxmkx2bzynhf75gg9&rid=giphy.gif&ct=s" width="50">I'm Retro <img src="https://media4.giphy.com/media/2upjCjg1mWDypXxPw9/giphy.gif?cid=790b76115842c8205fb50fad2826acd5ed1736d898875675&rid=giphy.gif&ct=s" width="50"></h1>
+<h1 align="center">Whats up dude,<img src="https://habbo-gifs.s3.amazonaws.com/3286482797.gif" width="50">I'm Retro <img src="https://cdn3.emoji.gg/emojis/1247-discord-bravery.png" width="25"> <img src="https://cdn3.emoji.gg/emojis/7011-active-developer-badge.png" width="25"> <img src="https://cdn3.emoji.gg/emojis/9765-badge-bugbuster.png" width="25"> <img src="https://cdn3.emoji.gg/emojis/4184-staff-badge.png" width="25"></h1>
+
 <div align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Mechatronic+Engineer;Reverse+Engineering;Neural+network+specialist;Specialist+in+Robotic;Minecraft+Player;Cod+Professional+Player;Habbo+Player" alt="Typing SVG" />
   </a>
+
 </div>
+<img src="https://i.pinimg.com/originals/f1/76/0c/f1760c4954793064f0eb8eaa277854fa.gif">
+
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCoHQDgCb3U8Swc0H4fNhxfQ?style=social)](https://youtube.com/themixerz?sub_confirmation=1)
+[![Twitch Status](https://img.shields.io/twitch/status/retromixers?style=social)](https://www.twitch.tv/retromixers)
+[![GitHub followers](https://img.shields.io/github/followers/Retro788?style=social)](https://github.com/Retro788)
 
 ### Hey, I'm Retro 👋👨‍💻
-— ❐⠀⤬
+— ❐⠀⤬ 
 ###
 - I'm a 21 year old software Engenieering and Mechatronics Engineering student 🌱
 - i'm Neural network specialist and Robotics lover. 🤖
@@ -13,7 +20,7 @@
 
 ## 🔭 Current
 
-I am currently working on many personal projects that I hope will have great impact in the world of AI and Robotics development [september.AI](https://discord.gg/rF4TN5Ka) - A 95b+ parameter computer vision driven multi-covulant artificial intelligence, created by me, specialized in many training areas, soon I plan to upload it directly from GitHub using an API and achieve global low latency content delivery :)
+I am currently working on many personal projects that I hope will have great impact in the world of AI and Robotics development [September.AI](https://discord.gg/rF4TN5Ka) - A 95b+ parameter computer vision driven multi-covulant artificial intelligence, created by me, specialized in many training areas, soon I plan to upload it directly from GitHub using an API and achieve global low latency content delivery :)
 
   <br/>
 
@@ -96,6 +103,41 @@ I am currently working on many personal projects that I hope will have great imp
   
 </div>
 
+<h3>🔨 Some of the languages and tools I use:</h3>
+    <div>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/angularjs/angularjs-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/arduino/arduino-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/atom/atom-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/haskell/haskell-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/oracle/oracle-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rect/rect-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/rust/rust-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tensorflow/tensorflow-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/yarn/yarn-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+      </div>
+
 <br/>
 
 ### Discord
@@ -117,8 +159,8 @@ I am currently working on many personal projects that I hope will have great imp
   
 <br/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SuhailSherief&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SuhailSherief&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Retro788&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Retro788&theme=github_dark)
   
 <br/>
 
@@ -126,10 +168,10 @@ I am currently working on many personal projects that I hope will have great imp
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Retro788&theme=github_dark)
   
 <br/>
+
+</a>
   
 </div>
-
-### Contributions
 
 <div align="center">
 
