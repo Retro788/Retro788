@@ -18,7 +18,7 @@
 - Develop both the Discord community/support and Discord user-bot from September.AI project as well as the chatbot.🤖
 - Specialist in training by deep learning techniques and machine learning as multi-covulants neural networks👨‍💻
 - 11 years programming (Senior programmer)👨‍💻
-- Winner of the second place in the national programming videogames contest.👨‍💻
+- Winner of the second place in the national programming videogames contest.🥇
 - i'm Neural network specialist and Robotics lover. 🤖
 - Love Habbo Gaming,tea and lo-fi. ☕
 - And more...
