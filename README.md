@@ -7,9 +7,9 @@
 ### Hey, I'm Retro 👋👨‍💻
 — ❐⠀⤬
 ###
-- I'm a 21 year old software Engenieer and Mechatronics Engineer student
-- i'm Neural network specialist and Robotics lover.
-- Love Gaming, tea and lo-fi.
+- I'm a 21 year old software Engenieering and Mechatronics Engineering student 🌱
+- i'm Neural network specialist and Robotics lover. 🤖
+- Love Habbo Gaming,tea and lo-fi. ☕
 
 ## 🔭 Current
 
