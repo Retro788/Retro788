@@ -15,9 +15,13 @@
 — ❐⠀⤬ 
 ###
 - I'm a 21 year old software Engenieering and Mechatronics Engineering student 🌱
+- Develop both the Discord community/support and Discord user-bot from September.AI project as well as the chatbot.🤖
+- Specialist in training by deep learning techniques and machine learning as multi-covulants neural networks👨‍💻
+- 11 years programming (Senior programmer)👨‍💻
+- Winner of the second place in the national programming videogames contest.👨‍💻
 - i'm Neural network specialist and Robotics lover. 🤖
 - Love Habbo Gaming,tea and lo-fi. ☕
-
+- And more...
 ## 🔭 Current
 
 I am currently working on many personal projects that I hope will have great impact in the world of AI and Robotics development [September.AI](https://discord.gg/rF4TN5Ka) - A 95b+ parameter computer vision driven multi-covulant artificial intelligence, created by me, specialized in many training areas, soon I plan to upload it directly from GitHub using an API and achieve global low latency content delivery :)
