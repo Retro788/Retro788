@@ -14,6 +14,7 @@
 ### Hey, I'm Retro 👋👨‍💻
 — ❐⠀⤬ 
 ###
+This is my portfolio web: https://retro-dev-io.vercel.app
 - I'm a 21 year old software Engenieering and Mechatronics Engineering student 🌱
 - Develop both the Discord community/support and Discord user-bot from September.AI project as well as the chatbot.🤖
 - Specialist in training by deep learning techniques and machine learning as multi-covulants neural networks👨‍💻
